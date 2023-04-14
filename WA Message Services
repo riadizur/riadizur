@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T05:39:39.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7K61Um_gflqvjAPNOZli" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T05:39:50.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Qj2hQqbPZzBnl-R-ZImC" version="21.1.7" type="github">
   <diagram name="Halaman-1" id="mY1JcppUmomYGZsgSdVF">
     <mxGraphModel dx="1100" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="he7v4WFC87a0d_ksFm7q-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="24" y="280" width="778.81" height="472.5" as="geometry" />
-        </mxCell>
-        <mxCell id="he7v4WFC87a0d_ksFm7q-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="he7v4WFC87a0d_ksFm7q-4">
-          <mxGeometry x="360" y="205" width="18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UOqN91Uui4UlW7QA5BRa-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="he7v4WFC87a0d_ksFm7q-4" vertex="1">
           <mxGeometry x="321" y="225" width="310" height="240" as="geometry" />
