@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T14:24:29.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.7.5" etag="kc-lh5dn4Vk0u2kV1oJo" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T09:20:46.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tqXe58vDkrP8-QZQc9Bf" version="21.7.5" type="github">
   <diagram name="Halaman-1" id="uxwpNnnLUV49zQIv91eL">
-    <mxGraphModel>
+    <mxGraphModel dx="650" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="101" width="120" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-1" value="ZUR&#39;S Platform ENGINE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="228.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-2" value="GPT API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-3" value="IQ Air API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-4" value="LogMeal API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-5" value="Film API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-6" value="BMKG API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-7" value="Public Transport API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="258.3" as="sourcePoint" />
+            <mxPoint x="270" y="258.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="460" y="101" width="120" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-13" value="Chat BOT Handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-14" value="Web Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-15" value="Public API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="258.3" as="sourcePoint" />
+            <mxPoint x="450" y="258.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="339.63" y="296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="337.5" width="220" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="349" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-22" value="IQ Air API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-23" value="GPT API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="349" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-24" value="IQ Air API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-25" value="Web Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-26" value="Public API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-27" value="Public API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
