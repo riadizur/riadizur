@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T09:20:46.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tqXe58vDkrP8-QZQc9Bf" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T08:26:11.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3_oAX4ALvuVOTKbuJPJZ" version="21.7.5" type="github">
   <diagram name="Halaman-1" id="uxwpNnnLUV49zQIv91eL">
     <mxGraphModel dx="650" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,6 +81,18 @@
         </mxCell>
         <mxCell id="aer1jBzJqGhHtBYzHP7Z-27" value="Public API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-28" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-32" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Time_Series_Data_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="298.8" y="640" width="51.2" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Share_Invitations.svg;" vertex="1" parent="1">
+          <mxGeometry x="126" y="640" width="68" height="44.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="aer1jBzJqGhHtBYzHP7Z-34" value="" style="shape=mxgraph.signs.healthcare.cardiology;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="316" y="510" width="24" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
