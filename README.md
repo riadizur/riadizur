@@ -37,7 +37,7 @@ graph TD
 - Bridging research and practical application in Indonesia’s healthtech & public service domains
 
 📩 Let's connect!
-- 🌐 [eltronesia.id](https://eltronesia.com) *(coming soon)*
+- 🌐 [eltronesia.com](https://eltronesia.com) *(coming soon)*
 - 💼 [LinkedIn](https://linkedin.com/in/riadizur) *(update if needed)*
 - 📝 [Medium Blog](https://medium.com/@riadizur) *(optional)*
 
