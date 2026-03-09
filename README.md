@@ -1,46 +1,23 @@
 # Hi there, I'm Riadizur 👋
 
-Welcome to my GitHub profile!
+I specialize in the convergence of AI Research, Embedded Systems, Software Product R&D, and Project Management. My professional journey is defined by an ability to navigate the entire technology stack from the low-level precision of Industrial Electronics to the high-level complexity of Artificial Intelligence. This unique perspective allows me to bridge the gap between theoretical research and market-ready products, ensuring that innovation is always met with execution.
 
-🚀 I'm a digital tech consultant and builder at **Eltronesia Tech Consulting**, where we specialize in:
-- Agentic AI & LLMs
-- Big Data & Automation
-- Robotics & System Integration
-- Custom Software Development
-- Digital Transformation Consulting
+I explore the frontiers of intelligent systems, ensuring that cutting-edge algorithms are grounded in practical utility. My focus lies in architecting sophisticated Generative AI (LLMs, RAG, and Agentic workflows), Computer Vision, NLP and NER Analysis alongside robust analytical machine learning models. And in the other hand, in my dual focus on Project Management and Software Product R&D, I translate complex technical visions into streamlined lifecycles, ensuring R&D efforts result in high-impact, scalable software products.
 
-🎯 My current focus:
-- Building modular, scalable **RAG pipelines** with Milvus, FAISS, FastAPI, and SharePoint integration
-- Deploying production-grade apps using **Helm**, **Terraform**, **AKS**, and **CI/CD pipelines**
-- Exploring the **Model-Context-Protocol (MCP)** architecture in real-world systems
+With a Bachelor’s in Industrial Electronics Engineering and current Master’s studies in Computer Science at Universitas Gadjah Mada (UGM), I design systems where hardware and software work in perfect synergy.
 
-🛠️ Tech Stack & Tools:
-`Python` `FastAPI` `LangChain` `FAISS` `Milvus` `Gradio` `Streamlit`  
-`Docker` `Kubernetes` `Helm` `Terraform` `Azure`  
-`GitLab CI/CD` `PostgreSQL` `LLMs (OpenAI, Claude, etc)`
+I thrive where technology meets strategy. Whether I am leading a cross-functional team through a product launch or deep-diving into the latest AI research, my goal remains the same, to build intelligent systems that solve global industrial challenges.
 
-## 🧠 My Current Workflow
-```mermaid
-graph TD
-    A[Idea / Problem] --> B[Research & Analysis]
-    B --> C[Design Architecture]
-    C --> D[Prototype / PoC]
-    D --> E[Build Modular System]
-    E --> F[Deploy with CI/CD + Helm]
-    F --> G[Monitor & Iterate]
-    G --> A
-```
+Core Areas of Expertise:
+- AI/ML Research & Modeling: Deep Learning, Predictive Analytics, LLMs, RAG & Agentic Workflows, NER Analysis, and Computer Vision.
+- Embedded Systems Design: Industrial IoT, Firmware, and Hardware-Software Integration.
+- Software Product Research and Development: Managing the journey from Concept to Market Delivery.
+- Intelligent Systems, Robotics and Autonomous Systems.
+- Data Science & Business Intelligence: Strategic data-driven decision making.
 
-📚 Passionate about:
-- Solving real-world problems through tech
-- Enabling smarter decisions with automation and data
-- Bridging research and practical application in Indonesia’s healthtech & public service domains
-
-📩 Let's connect!
+Let's connect!
 - 🌐 [eltronesia.com](https://eltronesia.com) *(coming soon)*
 - 💼 [LinkedIn](https://linkedin.com/in/riadizur) *(update if needed)*
 - 📝 [Medium Blog](https://medium.com/@riadizur) *(optional)*
 
-> "We protect what matters most." – a vision inspired by care, technology, and purpose.
-
-Thanks for stopping by! 🌟
+Thank You so much, cheers!
