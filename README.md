@@ -17,7 +17,7 @@ Core Areas of Expertise:
 
 Let's connect!
 - 🌐 [eltronesia.com](https://eltronesia.com) *(coming soon)*
-- 💼 [LinkedIn](https://linkedin.com/in/riadizur) *(update if needed)*
-- 📝 [Medium Blog](https://medium.com/@riadizur) *(optional)*
+- 💼 [LinkedIn](https://linkedin.com/in/riadizur)
+- 📝 [Medium Blog](https://medium.com/@riadizur)
 
 Thank You so much, cheers!
